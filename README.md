@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+Hi, I'm Yuki - a web application engineer at Tokyo.
+
+- [Blog](https://mottox2.com/)
+- [Twitter](https://twitter.com/mottox2)
+- [Qiita](https://qiita.com/mottox2)
+- [note](https://note.com/mottox2)
+
 <!--
 **mottox2/mottox2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
