@@ -1,6 +1,4 @@
-### Hi there 👋
-
-Hi, I'm Yuki - a web application engineer at Tokyo.
+Hi, I'm mottox2（もっと） - a web application engineer at Tokyo.
 
 - [Blog](https://mottox2.com/)
 - [Twitter](https://twitter.com/mottox2)
