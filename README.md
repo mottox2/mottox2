@@ -2,7 +2,7 @@ Hi, I'm mottox2（もっと） - a web application engineer at Tokyo.
 
 [![blog](https://img.shields.io/badge/blog-mottox2.com-lightgray)](https://mottox2.com/)
 [![twitter](https://img.shields.io/badge/-Twitter-_.svg?&logo=twitter&logoColor=ffffff&color=1DA1F2&labelColor=1DA1F2)](https://twitter.com/mottox2)
-[![twitter](https://img.shields.io/badge/-Qiita-56C502)](https://twitter.com/mottox2)
+[![Qiita](https://img.shields.io/badge/-Qiita-56C502)](https://qiita.com/mottox2)
 [![note](https://img.shields.io/badge/note-41C9B4?logo=note)](https://note.com/mottox2)
 
 <!--
